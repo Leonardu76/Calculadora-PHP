@@ -1,0 +1,46 @@
+
+body {
+    background: linear-gradient(75deg,  #330303fb, #102703, #3d1e01 );
+    background-size: 150% 300%; 
+}
+
+
+#buttom{
+
+    color: rgb(16, 197, 61);
+    background-color: rgba(15, 15, 15, 0.932);
+    font-size: 30px;
+    border: groove;
+
+}
+#value {
+    color: rgb(248, 245, 244);
+    background-color: rgba(15, 15, 15, 0.932);
+    text-align: center;
+    font-size: 30px;
+    border: groove;
+
+}
+#sinal{
+
+    color: rgb(245, 10, 10);
+    background-color: rgba(15, 15, 15, 0.932);
+    font-size: 35px;
+    text-align: center;
+}
+
+#result{
+    color: rgb(236, 236, 247);
+    background-color: rgba(15, 15, 15, 0.932);
+    text-align: center;
+    border: groove;
+    font-size: 30px;
+
+}
+
+.text{
+    color: rgb(209, 178, 5);
+    text-align: start;
+    
+}
+
