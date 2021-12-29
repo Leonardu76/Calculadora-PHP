@@ -1,0 +1,32 @@
+
+body {
+    background: linear-gradient(75deg,  #330303fb, #102703, #3d1e01 );
+    background-size: 150% 300%; 
+}
+
+#cal{
+    color: white;
+}
+#buttom{
+
+    color: rgb(242, 242, 250);
+    background-color: rgba(15, 15, 15, 0.932);
+    font-size: 30px;
+    border: double;
+
+}
+#value {
+    color: rgb(236, 236, 247);
+    background-color: rgba(15, 15, 15, 0.932);
+    text-align: center;
+    font-size: 30px;
+    border: double;
+
+}
+#sinal{
+
+    color: rgb(245, 239, 239);
+    background-color: rgba(15, 15, 15, 0.932);
+    font-size: 35px;
+    text-align: center;
+}
